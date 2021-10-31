@@ -34,7 +34,7 @@ if(part=='Exploratory Data Analysis'):
     st.markdown("**c) Which combination of Washer No. and Dryer No. are used the most by the customers?**")
     img1c = Image.open('1c.jpeg')
     st.image(img1c)
-    st.success("The combination of washer and dryer used most by customers is washer number 3 and dryer number 7. The least used washer and dryer together is washer number 4 and dryer number.")
+    st.success("The combination of washer and dryer used most by customers is washer number 3 and dryer number 7. The least used washer and dryer together is washer number 4 and dryer number 9.")
 
     st.markdown("**d) Does a specific age group wear a specific shirt color?**")
     img1d = Image.open('1d.jpeg')
